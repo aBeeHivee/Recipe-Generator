@@ -6,7 +6,6 @@ The **AI-Based Recipe Generator** is a web application that generates recipe sug
 ## 🔗 Links  
 - **GitHub Repository**: [Cloud PBL Repo](https://github.com/Shivangi10-10/cloud_pbl.git)  
 - **Live Application**: [Deployed on Netlify](https://fffinalll.netlify.app/)  
-- **Video Demo**: [Loom Video](https://www.loom.com/share/b2a6428676ed49788088e7de49b3283d)  
 
 ---
 
@@ -139,6 +138,5 @@ The **AI-Based Recipe Generator** successfully provides **quick recipe suggestio
 
 ## 7️⃣ Additional Resources  
 - **GitHub Code**: [Cloud PBL Repo](https://github.com/Shivangi10-10/cloud_pbl.git)  
-- **Project Demo Video**: [Loom Video](https://www.loom.com/share/b2a6428676ed49788088e7de49b3283d)  
 - **Live Project**: [Netlify Link](https://fffinalll.netlify.app/)  
 
