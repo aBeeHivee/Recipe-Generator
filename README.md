@@ -3,9 +3,6 @@
 ## 📌 Project Overview  
 The **AI-Based Recipe Generator** is a web application that generates recipe suggestions based on user-provided ingredients. Users enter a list of ingredients, and the app intelligently suggests a recipe using AI.
 
-## 🔗 Links  
-- **GitHub Repository**: [Cloud PBL Repo](https://github.com/Shivangi10-10/cloud_pbl.git)  
-- **Live Application**: [Deployed on Netlify](https://fffinalll.netlify.app/)  
 
 ---
 
@@ -136,7 +133,5 @@ The **AI-Based Recipe Generator** successfully provides **quick recipe suggestio
 
 ---
 
-## 7️⃣ Additional Resources  
-- **GitHub Code**: [Cloud PBL Repo](https://github.com/Shivangi10-10/cloud_pbl.git)  
-- **Live Project**: [Netlify Link](https://fffinalll.netlify.app/)  
+
 
